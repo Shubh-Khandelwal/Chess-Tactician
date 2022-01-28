@@ -1,12 +1,21 @@
 # Chess-Tactician
 
-### Description
+![Image1](Icons/OpeningsTree512.png)
+
+- [Chess-Tactician](#chess-tactician)
+  - [Description](#description)
+  - [Inspiration](#inspiration)
+  - [Roadmap](#roadmap)
+  - [Update Log](#update-log)
+  - [Developers](#developers)
+
+Description
 ---
 Chess Tactician is a browser based extension that allows real time in game board capture for popular online chess sites such as Lichess.org and Chess.com. 
 
 Chess Tactician aims to provide online chess players with a better in-game opening planning experience, allowing players to pre-plan moves according to their own unique opening repertoire and displaying them synchronously throughout online chess games.
 
-### Inspiration
+Inspiration
 ---
 Since the emergence of online chess sites in the early 2010s as well as an ongoing popularization of the game style mainly thanks to the streaming and show production industries, chrome extensions have become more and more prevalent in enhancing personal game experience. 
 
@@ -61,5 +70,16 @@ These are the design principles that this project is based on, but ultimately, w
 
 May all intermediate players find a way to "hack" the metagame and become the masters of their dreams.
 
+Roadmap
+---
+Check out [Our Milanote Page](https://app.milanote.com/1NdtGL1jx9cq9t?p=dbYVykey9vy)
 
+Update Log
+---
+- 01/28/2022 Created Subjects, Pages, Icons Folders, Updated ReadMe Description
+- 01/26/2022 Created Repository, ReadMe Description
+
+Developers
+---
+- xuhongkang (kanexu.work@gmail.com)
 

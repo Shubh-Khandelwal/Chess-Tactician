@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "GBChess Extension",
+    "description": "GBChess Extension for Chess.com and Lichess.org"
+  },
+
+  "extensionDescription": {
+    "message": "GBChess Extension.",
+    "description": "GBChess Extension for Chess.com and Lichess.org"
+  },
+
+  "notificationTitle": {
+    "message": "GBChess Extension",
+    "description": "GBChess Extension for Chess.com and Lichess.org"
+  }
+  }
